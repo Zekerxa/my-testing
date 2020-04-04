@@ -1,0 +1,294 @@
+{
+  "movies": [
+    {
+      "movies_name": "Avenger ( 2012 ) ",
+      "movies_link": "https://drive.google.com/file/d/1XaFE0Eay6cSwFRdH9XR9W_K3uRUGw7Aa/preview",
+      "movies_photo": "https://data-album.netlify.com/avenger/Avengers 1.2012.jpg",
+      "download_link": "uc?export=download&confirm=Fk7G&id=1XaFE0Eay6cSwFRdH9XR9W_K3uRUGw7Aa",
+      "type": "action",
+      "categories": "English",
+      "years": "2012",
+      "id": ""
+    },
+    {
+      "movies_name": "Avengers 2: Age of Ultron",
+      "movies_link": "https://drive.google.com/file/d/19IQ7nHzn-1jOAhe9bGEWdeBZ5yPwcIsc/preview",
+      "movies_photo": "https://data-album.netlify.com/avenger/Avengers 2.Age.of.Ultron.2015.jpg",
+      "download_link": "uc?export=download&confirm=4SGF&id=19IQ7nHzn-1jOAhe9bGEWdeBZ5yPwcIsc",
+      "type": "action",
+      "categories": "English",
+      "years": "2015",
+      "id": ""
+    },
+    {
+      "movies_name": "Avenger 3: Infinity War",
+      "movies_link": "https://drive.google.com/file/d/1QTRKt_DI0QLGzy0_hRQxksF-UZgL3uwH/preview",
+      "movies_photo": "https://data-album.netlify.com/avenger/Avengers  3.Infinity.War 2018.jpg",
+      "download_link": "uc?export=download&confirm=4GM5&id=1QTRKt_DI0QLGzy0_hRQxksF-UZgL3uwH",
+      "type": "action",
+      "categories": "English",
+      "years": "2018",
+      "id": ""
+    },
+    {
+      "movies_name": "Thor.1( 2012 )",
+      "movies_link": "https://drive.google.com/file/d/13UGWjb_UOg1F0dsHQwkAZ4fx6hG0Mxxc/view?usp=sharing",
+      "movies_photo": "https://data-album.netlify.com/avenger/Thor.2011.jpg",
+      "download_link": "uc?export=download&confirm=HEcE&id=13UGWjb_UOg1F0dsHQwkAZ4fx6hG0Mxxc",
+      "type": "action",
+      "categories": "English",
+      "years": "2012",
+      "id": ""
+    },
+    {
+      "movies_name": "Captain America:The First Avenger(2011)",
+      "movies_link": "https://movies-avenger.netlify.com/avenger/Captain.America.The.First.Avenger.2011.mp4",
+      "movies_photo": "https://data-album.netlify.com/avenger/Captain.America.The.First.Avenger.2011.jpg",
+      "download_link": "https://",
+      "type": "action",
+      "categories": "English",
+      "years": "2011",
+      "id": ""
+    },
+    {
+      "movies_name": "Captain America:The Winter Soldier(2014)",
+      "movies_link": "https://movies-avenger.netlify.com/avenger/captain-america-2.mp4",
+      "movies_photo": "https://data-album.netlify.com/avenger/captain-america-2.jpg",
+      "download_link": "https://",
+      "type": "action",
+      "categories": "English",
+      "years": "2014",
+      "id": ""
+    },
+    {
+      "movies_name": "Captain America:Civil War(2016)",
+      "movies_link": "https://movies-avenger.netlify.com/avenger/Captain.America.Civil.War.2016.mp4",
+      "movies_photo": "https://data-album.netlify.com/avenger/Captain.America.Civil.War.2016.jpg",
+      "download_link": "https://",
+      "type": "action",
+      "categories": "English",
+      "years": "2016",
+      "id": ""
+    },
+    {
+      "movies_name": "Captain Marvel(2019)",
+      "movies_link": "https://movies-avenger.netlify.com/avenger/Captain Marvel2019.mp4",
+      "movies_photo": "https://data-album.netlify.com/avenger/Captain Marvel2019.jpg",
+      "download_link": "https://",
+      "type": "action",
+      "categories": "English",
+      "years": "2019",
+      "id": ""
+    },
+    {
+      "movies_name": "Doctor Strage (2016)",
+      "movies_link": "https://movies-avenger.netlify.com/avenger/Pokemon-Detective-Pikachu.2019.1080p.HD.mp4",
+      "movies_photo": "https://data-album.netlify.com/avenger/doctor-strange.jpg",
+      "download_link": "https://",
+      "type": "action",
+      "categories": "English",
+      "years": "2016",
+      "id": ""
+    },
+    {
+      "movies_name": "Guardians of the Galaxy (2014)",
+      "movies_link": "https://movies-avenger.netlify.com/avenger/Guardians.of.the.Galaxy.2014.mp4",
+      "movies_photo": "https://data-album.netlify.com/avenger/Guardians.of.the.Galaxy.2014.jpg",
+      "download_link": "https://",
+      "type": "action",
+      "categories": "English",
+      "years": "2014",
+      "id": ""
+    },
+    {
+      "movies_name": "Guardians of the Galaxy Vol.2 (2017)",
+      "movies_link": "https://movies-avenger.netlify.com/avenger/Guardians.of.the.Galaxy.Vol.2.2017.mp4",
+      "movies_photo": "https://data-album.netlify.com/avenger/Guardians.of.the.Galaxy.Vol.2.2017.jpg",
+      "download_link": "https://",
+      "type": "action",
+      "categories": "English",
+      "years": "2017",
+      "id": ""
+    },
+    {
+      "movies_name": "Spider Man:Home Coming",
+      "movies_link": "https://movies-avenger.netlify.com/avenger/Spider-man.homecoming.2017.mp4",
+      "movies_photo": "https://data-album.netlify.com/avenger/Spider-man.homecoming.2017.jpg",
+      "download_link": "https://",
+      "type": "action",
+      "categories": "English",
+      "years": "2017",
+      "id": ""
+    },
+    {
+      "movies_name": "Spider Man:Far From Home",
+      "movies_link": "https://movies-avenger.netlify.com/avenger/SPIDER-MANFARFROMHOME.mp4",
+      "movies_photo": "https://data-album.netlify.com/avenger/SPIDER-MANFARFROMHOME.jpg",
+      "download_link": "https://",
+      "type": "action",
+      "categories": "English",
+      "years": "2019",
+      "id": ""
+    },
+    {
+      "movies_name": "Alita Battle Angel1",
+      "movies_link": "https://cartoon-movies-one.netlify.com/alita-battle-angel1.mp4",
+      "movies_photo": "https://data-album.netlify.com/cartoon/alita-battle-angel1.jpg",
+      "download_link": "https://",
+      "type": "cartoon",
+      "categories": "English",
+      "years": "2019",
+      "id": ""
+    },
+    {
+      "movies_name": "Beautiful Vampire 2018",
+      "movies_link": "https://movies-korea.netlify.com/korea/Beautiful Vampire 2018.mp4",
+      "movies_photo": "https://data-album.netlify.com/korea/Beautiful Vampire 2018.jpg",
+      "download_link": "",
+      "type": "drama",
+      "categories": "Korea",
+      "years": "2018",
+      "id": "c3B7_7a"
+    },
+    {
+      "movies_name": "Long.Live.the.King.2019",
+      "movies_link": "https://movies-korea.netlify.com/korea/Long.Live.the.King.2019.mp4",
+      "movies_photo": "https://data-album.netlify.com/korea/Long.Live.the.King.2019.jpg",
+      "download_link": "",
+      "type": "drama",
+      "categories": "Korea",
+      "years": "2019",
+      "id": "vuv6kLh"
+    },
+    {
+      "movies_name": "Rampant (2018)",
+      "movies_link": "https://movies-korea.netlify.com/korea/Rampant 2018.mp4",
+      "movies_photo": "https://data-album.netlify.com/korea/Rampant 2018.jpg",
+      "download_link": "",
+      "type": "horror",
+      "categories": "Korea",
+      "years": "2018",
+      "id": "Kl7Vx_b"
+    },
+    {
+      "movies_name": "The Divine Fury 2019",
+      "movies_link": "https://movies-korea.netlify.com/korea/The Divine Fury 2019.mp4",
+      "movies_photo": "https://data-album.netlify.com/korea/The Divine Fury 2019.jpg",
+      "download_link": "",
+      "type": "horror",
+      "categories": "Korea",
+      "years": "2019",
+      "id": "fv9bEhz"
+    },
+    {
+      "movies_name": "The-Gangster-The-Cop-The-Devil-Movie-Poster 2018",
+      "movies_link": "https://movies-korea.netlify.com/korea/The-Gangster-The-Cop-The-Devil-Movie-Poster 2018.mp4",
+      "movies_photo": "https://data-album.netlify.com/korea/The-Gangster-The-Cop-The-Devil-Movie-Poster 2018.jpg",
+      "download_link": "",
+      "type": "action",
+      "categories": "Korea",
+      "years": "2019",
+      "id": "RYjhxTC"
+    },
+    {
+      "movies_name": "Little.Nemo.Adventures.1989",
+      "movies_link": "https://movies-cartoon.netlify.com/cartoon/",
+      "movies_photo": "https://data-album.netlify.com/cartoon/Little.Nemo.Adventures.1989.jpg",
+      "download_link": "",
+      "type": "cartoon",
+      "categories": "English",
+      "years": "SELECT ONE",
+      "id": "wvMsZbx"
+    },
+    {
+      "movies_name": "Angry.Birds.Movie.2.2019",
+      "movies_link": "https://movies-cartoon.netlify.com/cartoon/The.Angry.Birds.Movie.2.2019.mp4",
+      "movies_photo": "https://data-album.netlify.com/cartoon/The.Angry.Birds.Movie.2.2019.jpg",
+      "download_link": "",
+      "type": "cartoon",
+      "categories": "English",
+      "years": "2019",
+      "id": "R528Ysz"
+    },
+    {
+      "movies_name": "Pokemon Mewtwo Strike Back 2019",
+      "movies_link": "https://movies-cartoon.netlify.com/cartoon/Pokemon Mewtwo Strike Back 2019.mp4",
+      "movies_photo": "https://data-album.netlify.com/cartoon/Pokemon Mewtwo Strike Back 2019.jpg",
+      "download_link": "",
+      "type": "cartoon",
+      "categories": "English",
+      "years": "2019",
+      "id": "xMT0-Xc"
+    },
+    {
+      "movies_name": "WALL·E (2008)",
+      "movies_link": "https://movies-cartoon.netlify.com/cartoon/WALL·E (2008).mp4",
+      "movies_photo": "https://data-album.netlify.com/cartoon/WALL·E (2008).jpg",
+      "download_link": "",
+      "type": "cartoon",
+      "categories": "English",
+      "years": "SELECT ONE",
+      "id": "G3tLJhA"
+    },
+    {
+      "movies_name": "Astro Kid 2019",
+      "movies_link": "https://movies-cartoon.netlify.com/cartoon/Astro Kid 2019.mp4",
+      "movies_photo": "https://data-album.netlify.com/cartoon/Astro Kid 2019.jpg",
+      "download_link": "",
+      "type": "cartoon",
+      "categories": "English",
+      "years": "2019",
+      "id": "OSiCVHr"
+    },
+    {
+      "movies_name": "Frozen.2.2019",
+      "movies_link": "https://cartoon-movies-one.netlify.com/Frozen.2.2019.mp4",
+      "movies_photo": "https://data-album.netlify.com/cartoon/Frozen.2.2019.jpg",
+      "download_link": "",
+      "type": "cartoon",
+      "categories": "English",
+      "years": "2019",
+      "id": "dn0_ZA5"
+    },
+    {
+      "movies_name": "Lion.King.2019",
+      "movies_link": "https://movies-cartoon.netlify.com/cartoon/Lion.King.2019.mp4",
+      "movies_photo": "https://data-album.netlify.com/cartoon/Lion.King.2019.jpg",
+      "download_link": "",
+      "type": "cartoon",
+      "categories": "English",
+      "years": "2019",
+      "id": "7XwXeQk"
+    },
+    {
+      "movies_name": "Avenger 4: End Game 2019",
+      "movies_link": "https://drive.google.com/file/d/1nyRhlp3e8nZmCl5wjP2QFltW9doN4KBG/preview",
+      "movies_photo": "https://data-album.netlify.com/avenger/AVENGERS 4.Endgame.2019.jpg",
+      "download_link": "uc?export=download&confirm=AJSu&id=1nyRhlp3e8nZmCl5wjP2QFltW9doN4KBG",
+      "type": "action",
+      "categories": "English",
+      "years": "2019",
+      "id": ""
+    },
+    {
+      "movies_name": "Thor.2:The Dark World ( 2013 )",
+      "movies_link": "https://drive.google.com/file/d/1Sah-bOMDNDmkTvXIyg2FMPVD2ZVntcyF/preview",
+      "movies_photo": "https://data-album.netlify.com/avenger/Thor.The.Dark.World.2013.jpg",
+      "download_link": "uc?export=download&confirm=_N0F&id=1Sah-bOMDNDmkTvXIyg2FMPVD2ZVntcyF",
+      "type": "action",
+      "categories": "English",
+      "years": "2013",
+      "id": ""
+    },
+    {
+      "movies_name": "Thor.3:Ragnarok( 2017 )",
+      "movies_link": "https://drive.google.com/file/d/17JvZt1WE8B3p3umnG6ohbQFo-IhKIWuU/preview",
+      "movies_photo": "https://data-album.netlify.com/avenger/Thor Ragnarok 2017.jpg",
+      "download_link": "uc?export=download&confirm=6IW_&id=17JvZt1WE8B3p3umnG6ohbQFo-IhKIWuU",
+      "type": "action",
+      "categories": "English",
+      "years": "2017",
+      "id": ""
+    }
+  ]
+}
