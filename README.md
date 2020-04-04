@@ -55,4 +55,8 @@ Visit at [Zekerxa](https://zekerxa-x.netlify.com).
 
 ### Git Hub
 git add .
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Zekerxa/my-testing.git
+git push -u origin master
 
