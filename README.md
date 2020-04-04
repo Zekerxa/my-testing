@@ -49,14 +49,15 @@ yarn add vue-owl-carousel
 yarn add vue-swimlane --save
 
 ### Thank You
-Visit at [Zekerxa](https://zekerxa-x.netlify.com).
+Visit at [Zekerxa](https://zekerxa.com).
 
 
 
 ### Git Hub
-git add .
+```
+git add . 
 git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/Zekerxa/my-testing.git
 git push -u origin master
-
+````
